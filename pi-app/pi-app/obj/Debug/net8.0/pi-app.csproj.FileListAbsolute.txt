@@ -1,0 +1,14 @@
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/bin/Debug/net8.0/pi-app
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/bin/Debug/net8.0/pi-app.deps.json
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/bin/Debug/net8.0/pi-app.runtimeconfig.json
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/bin/Debug/net8.0/pi-app.dll
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/bin/Debug/net8.0/pi-app.pdb
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/obj/Debug/net8.0/pi-app.GeneratedMSBuildEditorConfig.editorconfig
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/obj/Debug/net8.0/pi-app.AssemblyInfoInputs.cache
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/obj/Debug/net8.0/pi-app.AssemblyInfo.cs
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/obj/Debug/net8.0/pi-app.csproj.CoreCompileInputs.cache
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/obj/Debug/net8.0/pi-app.dll
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/obj/Debug/net8.0/refint/pi-app.dll
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/obj/Debug/net8.0/pi-app.pdb
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/obj/Debug/net8.0/pi-app.genruntimeconfig.cache
+/home/debian/Projects/c#-hello-world/pi-app/pi-app/obj/Debug/net8.0/ref/pi-app.dll
